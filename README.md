@@ -5,3 +5,6 @@
 ## Criteria 2: Database creation
 
 ## Criteria 3: Functionality
+
+Walkthrough video 
+https://youtu.be/OBvjPyXdDbM
